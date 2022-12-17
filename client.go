@@ -16,7 +16,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/clbanning/mxj/v2"
+	"github.com/clbanning/mxj"
 	"github.com/kenshaw/httplog"
 )
 
